@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chavezAngel
+- 👀 I’m interested in web, pero he trabajado en proyectos con python
+- 🌱 I’m currently learning frontend development
